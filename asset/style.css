@@ -1,0 +1,38 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.g0 {
+    width: 500px;
+    height: 240px;
+    border: 10px solid skyblue;
+    border-top:5px solid skyblue;
+
+}
+.g00 {
+    background: white;
+   padding: 0 0 20px 0;
+
+
+}
+.g1 {
+    color: white;
+    text-align: center;
+    background: #ff6600;
+    margin: 0px;
+
+
+}
+.g2 {
+    color: #0037ff
+}
+table {
+    display: inline;
+    color: #ff6600;
+}
+
+
+
+
